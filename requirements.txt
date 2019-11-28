@@ -1,0 +1,11 @@
+pyacvd==0.2.3
+scipy==1.2.1
+vtk==8.1.2
+pathos==0.2.5
+numpy==1.13.3
+networkx==2.2
+tqdm==4.31.1
+pyvista==0.20.3
+matplotlib==3.0.3
+lxml==4.2.1
+PyQt5==5.13.1
